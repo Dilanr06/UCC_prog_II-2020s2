@@ -19,7 +19,7 @@ public class Ejercicio9 {
 				numero = numero /10;
 			}
 	       
-			System.out.println ("La suma de los digitos de: "+ aux + " es: "+SumaDigitos);
+			System.out.println ("La suma de los digitos de: "+ aux + " es: " +SumaDigitos);
 		
 	}
 }

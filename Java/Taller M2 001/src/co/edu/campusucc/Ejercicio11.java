@@ -16,6 +16,6 @@ public class Ejercicio11 {
 		
 		valor_absoluto = numero > 0? numero: -numero;
 		
-		System.out.println("El valor absoluto de:" +numero+" es: "+valor_absoluto);
+		System.out.println("El valor absoluto de: " +numero+ " es: " +valor_absoluto);
 	}
 }

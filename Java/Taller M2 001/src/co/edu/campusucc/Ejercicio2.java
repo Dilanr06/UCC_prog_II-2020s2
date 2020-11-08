@@ -21,10 +21,10 @@ public class Ejercicio2 {
 		multiplicacion = numero1 * numero2;
 		promedio = (numero1 + numero2) / 2;
 		
-		System.out.println("El resultado de la suma es:"+suma);
-		System.out.println("El resultado de la resta es:"+resta);
-		System.out.println("El resultado de la multiplicacion es:"+multiplicacion);
-		System.out.println("El resultado del promedio es:"+promedio);
+		System.out.println("El resultado de la suma es: " +suma);
+		System.out.println("El resultado de la resta es: " +resta);
+		System.out.println("El resultado de la multiplicacion es: " +multiplicacion);
+		System.out.println("El resultado del promedio es: " +promedio);
 		
 		
 	}

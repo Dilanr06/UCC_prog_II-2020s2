@@ -21,7 +21,7 @@ public class Ejercicio6 {
 		
 		salario = valor_hora * horas_trabajadas;
 		
-		System.out.println("El salario del empleado es:" +salario);
+		System.out.println("El salario del empleado es: " +salario);
 		
 		
 	}

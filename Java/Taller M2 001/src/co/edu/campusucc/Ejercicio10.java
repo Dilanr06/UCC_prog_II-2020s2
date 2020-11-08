@@ -37,9 +37,9 @@ public class Ejercicio10 {
 		
 		salariofinal = valor_de_la_hora + salario;
 		
-		System.out.println("El valor de la horas trabajadas es:"+valor_de_la_hora);
-		System.out.println("El empleado:"  +nombre+"de codigo"   +codigo+"   laboro"    +valor_de_la_hora+"   "+numero_de_horas_trabajadas+"");
-		System.out.println("El salario final a cancelar es:"+salariofinal+"");
+		System.out.println("El valor de la horas trabajadas es: " +valor_de_la_hora);
+		System.out.println("El empleado: "  +nombre+"de codigo"   +codigo+"   laboro"    +valor_de_la_hora+"   "+numero_de_horas_trabajadas+"");
+		System.out.println("El salario final a cancelar es: " +salariofinal+"");
 		
 	}
 }

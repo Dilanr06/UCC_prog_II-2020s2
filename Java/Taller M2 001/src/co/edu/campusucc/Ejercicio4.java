@@ -21,7 +21,7 @@ public class Ejercicio4 {
 		
 		valor_a_pagar = (salario - descuento);
 		
-		System.out.println("El valor a pagar es:"+valor_a_pagar+"");
+		System.out.println("El valor a pagar es:" +valor_a_pagar+ "");
 		
 	}
 }

@@ -15,11 +15,11 @@ public class Ejercicio5 {
 		System.out.println("Ingrese el valor a pagar");
 		pago = entrada.nextFloat();
 		
-		System.out.println("El costo del articulo es:"+costo+", El valor pagado es:"+pago+"");
+		System.out.println("El costo del articulo es:"+costo+", El valor pagado es: " +pago+ "");
 		
 		cambio = pago - costo;
 	
-		System.out.println("El cambio es:"+cambio);
+		System.out.println("El cambio es: " +cambio);
 		
 	}
 }

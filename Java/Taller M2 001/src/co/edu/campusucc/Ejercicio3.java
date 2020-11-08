@@ -20,11 +20,11 @@ public class Ejercicio3 {
 		porcentaje2 = (nota2 *30) / 100;
 		porcentaje3 = (nota3 *40) / 100;
 		
-		System.out.println("Las notas suyas son:"+nota1+","+nota2+","+nota3+"");
+		System.out.println("Las notas suyas son:" +nota1+"," +nota2+"," +nota3+"");
 		
 		suma = (nota1 + nota2 + nota3) / 3;
 		
-		System.out.println("Sus nota definitiva es:"+suma);
+		System.out.println("Sus nota definitiva es: " +suma);
 		
 	}
 }
