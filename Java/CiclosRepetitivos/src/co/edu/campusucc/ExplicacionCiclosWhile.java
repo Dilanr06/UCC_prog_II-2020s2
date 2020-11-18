@@ -26,18 +26,5 @@ public class ExplicacionCiclosWhile {
 		
 	}
 	
+}	
 	
-	for (int i = 1; i <=numero; i++ ) {
-		
-		if (numero % i == 0) {
-			contador++;	
-		}
-		if (contador == 2) {
-			System.out.println( " El numero randomico >>>" +numero+ "es primo");
-		}else {
-			System.out.println (" El numero randomico >>> " +numero+ "no es primo");
-		}
-		
-	}
-
-}
