@@ -1,3 +1,5 @@
+package co.edu.campusucc;
+
 import java.util.Scanner;
 
 public class EjercicioSeleccionMultiple01 {
@@ -5,8 +7,8 @@ public class EjercicioSeleccionMultiple01 {
 
 	public static void main(String[] args) {
 		
-		String nombre;
-		String plan;
+		String nombre = "";
+		String plan = "";
 		int semestre = 0;
 		int economia = 10;
 		int ciencias = 10;

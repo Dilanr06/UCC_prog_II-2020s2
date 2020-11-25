@@ -1,3 +1,5 @@
+package co.edu.campusucc;
+
 import java.util.Scanner;
 
 public class EjercicioSeleccionMultiple13 {
